@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zlatka-n
+- 👋 Hi, I’m Zlatka and I'm based in Prague, Czech Republic.
 - 🌱 I’m currently learning Next.js
 
 <!---
